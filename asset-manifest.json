@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4dba8217.css",
+    "main.js": "/portfolio/static/js/main.459fba79.js",
+    "static/media/notes.png": "/portfolio/static/media/notes.d5c0c9945b82509626f0.png",
+    "static/media/hotel.png": "/portfolio/static/media/hotel.4a709a0109c10f0857d7.png",
+    "index.html": "/portfolio/index.html",
+    "main.4dba8217.css.map": "/portfolio/static/css/main.4dba8217.css.map",
+    "main.459fba79.js.map": "/portfolio/static/js/main.459fba79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dba8217.css",
+    "static/js/main.459fba79.js"
+  ]
+}
