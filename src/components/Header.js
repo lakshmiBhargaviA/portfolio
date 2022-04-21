@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import profileImage from "../assets/prof.jpeg";
 import SOCIAL_PROFILES from "../data/socialProfiles";
 import SocialProfile from "./SocialProfile";
 class Header extends Component{

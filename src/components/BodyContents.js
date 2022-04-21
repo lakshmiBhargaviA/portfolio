@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import ProfileSummary from "./ProfileSummary";
 
 import Projects from "./Projects";
-import Current from "./CurrentProject";
 import Skills from "./Skills";
 import BasicInfo from "./BasicInfo";
 import Education from "./Education";
